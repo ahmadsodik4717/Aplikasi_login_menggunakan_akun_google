@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "617025570326",
+    "project_id": "signinshofar",
+    "storage_bucket": "signinshofar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617025570326:android:5e6403b2bdbe8788f15737",
+        "android_client_info": {
+          "package_name": "com.ahmadsodik.signinwithagoogleaccount"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617025570326-c24fnp0kjv4echkdik1fm9v3ntk6l65o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR5Il1ZGyfVP--Q3i8MsPHkpZU0oQD0RY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617025570326-c24fnp0kjv4echkdik1fm9v3ntk6l65o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
